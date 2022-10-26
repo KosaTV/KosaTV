@@ -5,7 +5,7 @@
 ## Hi!
 🖥️ I program and design. 👁️
 
-My favourite part is learning about web technologies such as: React, TypeScript,NodeJS, Electron,NeutralinoJS and so many more...
+My favourite part is learning new web technologies such as: React, TypeScript, NodeJS, NeutralinoJS and so many more...
 
 
 Trayna be updated with everything what I am curious, if you wanna see some of my projects just look at my repositories, maybe there's something for you. 😃
