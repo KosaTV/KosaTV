@@ -10,7 +10,7 @@ My favourite part is learning new web technologies such as: React, TypeScript, N
 ## You wanna see more?
 You can visit my website: [JacobChodubski](https://jacobchodubski.herokuapp.com)
 
-Trayna be updated with everything what I am curious, if you wanna see some of my projects just look at my repositories, maybe there's something for you. 😃
+Trying to be updated with everything that I am interested in about, if you want to see some of my projects look at my repositories, maybe there's something for you. 😃
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kosatv&show_icons=true&theme=tokyonight)
 
