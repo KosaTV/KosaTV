@@ -8,7 +8,7 @@
 My favourite part is learning new web technologies such as: React, TypeScript, NodeJS, NeutralinoJS and so many more...
 
 ## You wanna see more?
-You can visit my website: [JacobChodubski](https://jacobchodubski.herokuapp.com)
+You can visit my website: [JacobChodubski](https://jacobchodubski.onrender.com/)
 
 Trying to be updated with everything that I am interested in about, if you want to see some of my projects look at my repositories, maybe there's something for you. 😃
 
